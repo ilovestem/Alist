@@ -18,5 +18,5 @@ Network disk address:https://5244-ilovestem-pan-xyn43l8un20.ws-us100.gitpod.io
 Shared account:
        Account number: Lemon
        Password: 20121022hhM
-Please do not change any information. Thank you for your cooperation.
+Please do not change any information, Thank you for your cooperation.
 ~~~
