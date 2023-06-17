@@ -19,4 +19,5 @@ Shared account:
        Account number: Lemon
        Password: 20121022hhM
 Please do not change any information, Thank you for your cooperation.
+Thanks for Alist Team.
 ~~~
