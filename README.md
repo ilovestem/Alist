@@ -4,7 +4,7 @@
 中文区：
 运行代码：./install.sh
 运行于：https://gitpod.io
-网盘地址：https://5244-ilovestem-pan-xyn43l8un20.ws-us100.gitpod.io
+网盘地址：https://5244-ilovestem-alist-esn53bh4aac.ws-us100.gitpod.io
 共享账号：
        账号：Lemon
        密码：20121022hhM
@@ -14,7 +14,7 @@
 English-speaking area：
 Run code: ./install.sh
 Run on: https://gitpod.io
-Network disk address:https://5244-ilovestem-pan-xyn43l8un20.ws-us100.gitpod.io
+Network disk address:https://5244-ilovestem-alist-esn53bh4aac.ws-us100.gitpod.io
 Shared account:
        Account number: Lemon
        Password: 20121022hhM
